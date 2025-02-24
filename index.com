@@ -22,6 +22,7 @@
             min-height: 100vh;
             text-align: center;
             flex-direction: column;
+            padding-top: 100px;
         }
         .container {
             background-color: #ffffff;
@@ -30,6 +31,8 @@
             padding: 40px;
             max-width: 900px;
             width: 100%;
+            margin-top: 100px;
+            min-height: 400px;
         }
         .profile-img {
             width: 200px;  
@@ -191,3 +194,8 @@
     </div>
 </body>
 </html>
+
+
+
+
+
